@@ -42,7 +42,7 @@ r {
     left : 10px;
     width: 30px;
     height: 30px;
-    background-color: darkred;
+    background-color: rgba(250,125,86);
     border-radius: 50%;
 }
 .text_box {
